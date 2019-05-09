@@ -5,3 +5,6 @@
 Assets/TextMesh Pro/
 Library/
 Temp/
+.vs/
+Packages/
+obj/
